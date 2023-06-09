@@ -1,0 +1,30 @@
+#containerClock {
+    background-color: darkred;
+    height: 40vw;
+    width: 40vw;
+    background: url(clock.png) no-repeat;
+    background-size: 100%;
+    border: 2px solid red;
+    margin: auto;
+}
+
+#hour, #minute, #second {
+    position: absolute;
+    background: black;
+    border-radius: 10px;
+}
+
+#hour {
+width: 1%;
+height: 27%;
+top: 16%;
+left: 49.4%;
+}
+
+#minute {
+
+}
+
+#second {
+
+}
